@@ -28,8 +28,8 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\HEVD-StackOverflow-Exploit\Project1\StackOverflow.asm">
+    <MASM Include="StackOverflow.asm">
       <Filter>Source Files</Filter>
-    </None>
+    </MASM>
   </ItemGroup>
 </Project>
